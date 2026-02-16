@@ -1,1 +1,1 @@
-mgmt01-logan
+host
